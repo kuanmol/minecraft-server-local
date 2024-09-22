@@ -23,6 +23,7 @@ nano ~/.bashrc
 after running nano commant a script file will open write this line at the end of file:
 
 export JAVA_HOME=/opt/jdk/jdk-23
+
 export PATH=$JAVA_HOME/bin:$PATH
 
 Save and exit (Ctrl + X, then Y, and press Enter).
