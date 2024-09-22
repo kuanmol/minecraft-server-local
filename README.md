@@ -9,6 +9,7 @@ There might chance that java may not install so copy this command to install ins
 java -version if this not working then follow down steps:
 
 wget https://download.oracle.com/java/23/latest/jdk-23_linux-x64_bin.tar.gz 
+
 tar -xvf jdk-23_linux-x64_bin.tar.gz                                        
 
 After the installtion now you have to make it default for your terminal
